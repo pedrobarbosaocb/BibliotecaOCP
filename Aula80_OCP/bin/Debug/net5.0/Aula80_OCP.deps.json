@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Aula80_OCP/1.0.0": {
+        "dependencies": {
+          "BibliotecaOCP": "1.0.0"
+        },
+        "runtime": {
+          "Aula80_OCP.dll": {}
+        }
+      },
+      "BibliotecaOCP/1.0.0": {
+        "runtime": {
+          "BibliotecaOCP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula80_OCP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaOCP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

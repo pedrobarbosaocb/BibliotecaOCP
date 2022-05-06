@@ -1,0 +1,16 @@
+E:\Cast\Projetos\Aula80\BibliotecaOCP\bin\Debug\net5.0\BibliotecaOCP.exe
+E:\Cast\Projetos\Aula80\BibliotecaOCP\bin\Debug\net5.0\BibliotecaOCP.deps.json
+E:\Cast\Projetos\Aula80\BibliotecaOCP\bin\Debug\net5.0\BibliotecaOCP.runtimeconfig.json
+E:\Cast\Projetos\Aula80\BibliotecaOCP\bin\Debug\net5.0\BibliotecaOCP.runtimeconfig.dev.json
+E:\Cast\Projetos\Aula80\BibliotecaOCP\bin\Debug\net5.0\BibliotecaOCP.dll
+E:\Cast\Projetos\Aula80\BibliotecaOCP\bin\Debug\net5.0\BibliotecaOCP.pdb
+E:\Cast\Projetos\Aula80\BibliotecaOCP\obj\Debug\net5.0\BibliotecaOCP.csproj.AssemblyReference.cache
+E:\Cast\Projetos\Aula80\BibliotecaOCP\obj\Debug\net5.0\BibliotecaOCP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cast\Projetos\Aula80\BibliotecaOCP\obj\Debug\net5.0\BibliotecaOCP.AssemblyInfoInputs.cache
+E:\Cast\Projetos\Aula80\BibliotecaOCP\obj\Debug\net5.0\BibliotecaOCP.AssemblyInfo.cs
+E:\Cast\Projetos\Aula80\BibliotecaOCP\obj\Debug\net5.0\BibliotecaOCP.csproj.CoreCompileInputs.cache
+E:\Cast\Projetos\Aula80\BibliotecaOCP\obj\Debug\net5.0\BibliotecaOCP.dll
+E:\Cast\Projetos\Aula80\BibliotecaOCP\obj\Debug\net5.0\refint\BibliotecaOCP.dll
+E:\Cast\Projetos\Aula80\BibliotecaOCP\obj\Debug\net5.0\BibliotecaOCP.pdb
+E:\Cast\Projetos\Aula80\BibliotecaOCP\obj\Debug\net5.0\BibliotecaOCP.genruntimeconfig.cache
+E:\Cast\Projetos\Aula80\BibliotecaOCP\obj\Debug\net5.0\ref\BibliotecaOCP.dll
